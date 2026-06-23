@@ -17,10 +17,10 @@
    ```
 
 3. Configurar credenciales:
-   export AWS_DEFAULT_REGION=us-east-1
-   export AWS_ACCESS_KEY_ID="XXXX"
-   export AWS_SECRET_ACCESS_KEY="XXXXX"
-   export AWS_SESSION_TOKEN="XXXXX"
+   - export AWS_DEFAULT_REGION=us-east-1
+   - export AWS_ACCESS_KEY_ID="XXXX"
+   - export AWS_SECRET_ACCESS_KEY="XXXXX"
+   - export AWS_SESSION_TOKEN="XXXXX"
 
 4. Continuar laboratorio en https://catalog.us-east-1.prod.workshops.aws/workshops/b3fc5f7a-ff34-41fa-a9f2-4cd9e093e6ff/en-US
    
